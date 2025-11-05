@@ -1,4 +1,3 @@
-# --- ETAPA 1: CONSTRUIR (Build) ---
 # Usamos una imagen de Java 21 con el JDK completo (builder)
 FROM eclipse-temurin:21-jdk-jammy AS builder
 
